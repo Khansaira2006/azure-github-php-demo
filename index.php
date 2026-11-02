@@ -11,7 +11,7 @@
         echo "<h2>Student Name: Saira Khan</h2>";
         echo "<p>Course: Emerging Technologies - XINF-10021-01</p>";
         echo "<p>Task 2: GitHub Actions Deployment</p>";
-        echo "<p>Version: 1 - Initial Deployment</p>";
+        echo "<p> Task 2 Completed successfully Thank You</p>";
     ?>
 </body>
 </html>
